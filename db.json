@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "name":"hari",
+            "passsword":"hqriom"
+        }
+    ],
+    "posts":[
+        {
+            "title":"learn react",
+            "status":false
+        }
+    ]
+}
